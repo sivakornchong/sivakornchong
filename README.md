@@ -10,7 +10,7 @@ Previously a chemical engineer in oil and gas industry, I am passionate about fi
 Check out this repository for my personal portfolio:
 - Singapore Housing price prediction model
 
-  <a href="https://github.com/sivakornchong/hdb_project">Github repo</a> / <a href="https://huggingface.co/spaces/sivakornchong/HDB_resale_predict">huggingface deployment</a>
+  <a href="https://github.com/sivakornchong/hdb_project">Github repo</a> / <a href="https://huggingface.co/spaces/sivakornchong/HDB_resale_predict">Huggingface deployment</a>
 
   Note: Model iteration pipeline is hosted on GCP VM.   
 <!--
