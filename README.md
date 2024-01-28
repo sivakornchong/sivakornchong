@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi! I'm Oak 👋
 
+I'm a data scientist with experience as a machine learning operations specialist from TikTok. 
+Previously a chemical engineer in oil and gas industry, I am passionate about finding ways to use technology in a way that benefits non-tech companies. 
+
+- 🌱 I’m currently building up my skills in data science at UBC (Canada): Master of Data Science
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sivakornchong">LinkedIn</a>
+- 👯 I’m looking to collaborate on cool projects related to machine learning!
+  
 <!--
 **sivakornchong/sivakornchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
