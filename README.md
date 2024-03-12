@@ -12,7 +12,16 @@ Check out this repository for my personal portfolio:
 
   <a href="https://github.com/sivakornchong/hdb_project">Github repo</a> / <a href="https://huggingface.co/spaces/sivakornchong/HDB_resale_predict">Huggingface deployment</a>
 
-  Note: Model iteration pipeline is hosted on GCP VM.   
+  Note: Model iteration pipeline is hosted on GCP VM.
+
+- Prototype Face Detection and Age Classification
+
+<a href="https://github.com/sivakornchong/hdb_project">Github repo</a>
+
+  - Finetuned large computer vision models (YOLOV8 and RESNET) for human face detection and classification with intent to define user’s age group for targeted health recommendation.
+  - Developed a prototype script to deploy models on local computer cameras. 
+
+  
 <!--
 **sivakornchong/sivakornchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
