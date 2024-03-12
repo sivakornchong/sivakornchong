@@ -11,8 +11,9 @@ Check out this repository for my personal portfolio:
 - Singapore Housing price prediction model
 
   <a href="https://github.com/sivakornchong/hdb_project">Github repo</a> / <a href="https://huggingface.co/spaces/sivakornchong/HDB_resale_predict">Huggingface deployment</a>
-
-  Note: Model iteration pipeline is hosted on GCP VM.
+    
+    - An XGBoost model was developed with a high test accuracy of 95.8% to predict housing price in Singapore. 
+    - Model auto-iteration pipeline is hosted on GCP VM to develop new model weekly based on latest dataset. 
 
 - Prototype Face Detection and Age Classification
 
