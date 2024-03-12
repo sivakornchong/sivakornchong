@@ -16,10 +16,10 @@ Check out this repository for my personal portfolio:
 
 - Prototype Face Detection and Age Classification
 
-<a href="https://github.com/sivakornchong/hdb_project">Github repo</a>
-
-  - Finetuned large computer vision models (YOLOV8 and RESNET) for human face detection and classification with intent to define user’s age group for targeted health recommendation.
-  - Developed a prototype script to deploy models on local computer cameras. 
+  <a href="https://github.com/sivakornchong/hdb_project">Github repo</a>
+  
+    - Finetuned large computer vision models (YOLOV8 and RESNET) for human face detection and classification with intent to define user’s age group for targeted health recommendation.
+    - Developed a prototype script to deploy models on local computer cameras. 
 
   
 <!--
