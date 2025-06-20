@@ -1,27 +1,13 @@
 ### Hi! I'm Oak 👋
 
-I'm a data scientist with experience as a machine learning operations specialist from TikTok. 
-Previously a chemical engineer in oil and gas industry, I am passionate about finding ways to use technology in a way that benefits non-tech companies. 
+I'm a machine learning engineer with experience working in TikTok (Singapore) and leading a technical data and ML team at Sixone Labs (Canada). 
 
-- 🌱 I’m currently building up my skills in data science at UBC (Canada): Master of Data Science
+Previously I was a chemical engineer in oil and gas industry, I am passionate about finding ways to use AI technology to best suit non-tech sectors. 
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sivakornchong">LinkedIn</a>
 - 👯 I’m looking to collaborate on cool projects related to machine learning! I am currently looking into cloud deployments and aspiring to master GCP!
 
-Check out this repository for my personal portfolio:
-- Singapore Housing price prediction model
-
-  <a href="https://github.com/sivakornchong/hdb_project">Github repo</a> / <a href="https://huggingface.co/spaces/sivakornchong/HDB_resale_predict">Huggingface deployment</a>
-    
-    - An XGBoost model was developed with a high test accuracy of 95.8% to predict housing price in Singapore. 
-    - Model auto-iteration pipeline is hosted on GCP VM to develop new model weekly based on latest dataset. 
-
-- Prototype Face Detection and Age Classification
-
-  <a href="https://github.com/sivakornchong/hdb_project">Github repo</a>
-  
-    - Finetuned large computer vision models (YOLOV8 and RESNET) for human face detection and classification with intent to define user’s age group for targeted health recommendation.
-    - Developed a prototype script to deploy models on local computer cameras. 
-
+Please refer to my <a href="https://www.sivakornchong.github.io">portfolio</a> for more details on career and education journey in Thailand, Singapore and Canada.
   
 <!--
 **sivakornchong/sivakornchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
