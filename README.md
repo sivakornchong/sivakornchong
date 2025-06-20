@@ -1,6 +1,6 @@
 ### Hi! I'm Oak 👋
 
-I'm a machine learning engineer with experience working in TikTok (Singapore) and leading a technical data&ML team at Sixone Labs (Canada). 8 years of experience in data and machine learning fields, with 2 years of leadership experience
+I'm a machine learning engineer with experience working in TikTok (Singapore) and leading a technical data&ML team at Sixone Labs (Canada). I have 8 years of experience in data and machine learning fields, with 2 years of leadership experience
 
 Previously, I was a chemical engineer in oil and gas industry. With domain knowledge from non-tech sector, I am passionate about finding ways to extract more values from data with more reliable data engineering and suitable application of AI and machine learning.
 
