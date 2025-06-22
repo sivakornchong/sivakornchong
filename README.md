@@ -7,7 +7,7 @@ Previously, I was a chemical engineer in oil and gas industry. With domain knowl
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sivakornchong">LinkedIn</a>
 - 👯 I’m looking to collaborate on cool projects related to machine learning! I am currently looking into cloud deployments and aspiring to master GCP!
 
-Please refer to my <a href="https://www.sivakornchong.github.io">portfolio</a> for more details on career and education journey in Thailand, Singapore and Canada.
+Please refer to my [portfolio](https://sivakornchong.github.io/) for more details on career and education journey in Thailand, Singapore and Canada.
   
 <!--
 **sivakornchong/sivakornchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
